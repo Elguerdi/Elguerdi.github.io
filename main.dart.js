@@ -73871,7 +73871,7 @@ A.Hh.prototype={
 H(a){var s,r=null,q=$.b3.P(),p=$.b3.P(),o=$.b3.P(),n=A.cq(0,0,1),m=A.cq(0,800,0),l=A.bd(r,2*$.kJ.P()/100,r),k=$.akr
 k.toString
 s=t.p
-return A.lz(new A.cv(new A.aS(10*p/100,15*q/100,10*o/100,0),A.f0(A.a([new A.hU(new A.ty(r),n,m,new A.q(0,0),r),l,A.ed(A.a([A.c_("Hi there, Welcome to My Space  ",k.fU(A.pW(a,16)),r),A.Ho("assets/gif/hi.gif",B.a0,r,10*($.b3.P()/3)/100,r,r)],s),B.U,B.R,B.cb),A.c_("I'm Ibtissam Elguerdi,",A.cm(r,r,r,r,r,r,r,r,r,r,r,A.pW(a,28),r,r,B.bF,r,r,!0,r,r,r,r,r,r,r,r),r),A.bd(r,2*$.b3.P()/100,r),A.ed(A.a([A.c_("A ",A.cm(r,r,r,r,r,r,r,r,r,r,r,A.pW(a,18),r,r,B.x,r,r,!0,r,r,r,r,r,r,r,r),r),A.akp($.ax9(),!0,!0)],s),B.e0,B.hU,B.N),A.bd(r,$.b3.P()/100,r),A.ed(A.a([new A.k2("Resume",new A.a0l(),r),A.bd(r,r,1),new A.k2("Certificates",new A.a0m(),r)],s),B.U,B.hV,B.N)],s),B.U,B.R,B.N),r),r,r)}}
+return A.lz(new A.cv(new A.aS(10*p/100,25*q/100,10*o/100,0),A.f0(A.a([new A.hU(new A.ty(r),n,m,new A.q(0,0),r),l,A.ed(A.a([A.c_("Hi there, Welcome to My Space  ",k.fU(A.pW(a,16)),r),A.Ho("assets/gif/hi.gif",B.a0,r,10*($.b3.P()/3)/100,r,r)],s),B.U,B.R,B.cb),A.c_("I'm Ibtissam Elguerdi,",A.cm(r,r,r,r,r,r,r,r,r,r,r,A.pW(a,28),r,r,B.bF,r,r,!0,r,r,r,r,r,r,r,r),r),A.bd(r,2*$.b3.P()/100,r),A.ed(A.a([A.c_("A ",A.cm(r,r,r,r,r,r,r,r,r,r,r,A.pW(a,18),r,r,B.x,r,r,!0,r,r,r,r,r,r,r,r),r),A.akp($.ax9(),!0,!0)],s),B.e0,B.hU,B.N),A.bd(r,$.b3.P()/100,r),A.ed(A.a([new A.k2("Resume",new A.a0l(),r),A.bd(r,r,1),new A.k2("Certificates",new A.a0m(),r)],s),B.U,B.hV,B.N)],s),B.U,B.R,B.N),r),r,r)}}
 A.a0l.prototype={
 $0(){var s=window
 s.toString
